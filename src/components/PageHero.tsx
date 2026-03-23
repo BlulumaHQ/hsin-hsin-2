@@ -1,4 +1,4 @@
-import heroImg from "@/assets/hero-slide-1.jpg";
+import heroImg from "@/assets/page-hero-bg.jpg";
 
 interface PageHeroProps {
   title: string;
