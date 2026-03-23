@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1080 1080">
+  <!-- Generator: Adobe Illustrator 29.8.3, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1, .st2 {
+        fill: #623d1b;
+      }
+
+      .st2 {
+        font-family: FZLTDHK--GBK1-0, FZLanTingHei-EB-GBK;
+        font-size: 117.11px;
+        letter-spacing: .2em;
+      }
+
+      .st3 {
+        fill: #3b2414;
+        font-family: BuiltTitlingRg-Bold, 'Built Titling';
+        font-size: 213.04px;
+        font-weight: 700;
+      }
+
+      .st4 {
+        fill: #f78f22;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="st1" x="104.66" y="367.74" width="293.92" height="296.14"/>
+    <g>
+      <polygon class="st4" points="204.49 476.27 204.49 455.53 227.41 458.04 227.76 429.87 155.62 416 155.62 473.83 204.49 476.27"/>
+      <polygon class="st0" points="204.49 485.38 204.49 570.53 315.51 551.91 315.51 469.9 234.75 458.8 234.52 430.87 347.61 452.92 347.61 569.23 155.62 615.62 155.62 482.77 204.49 485.38"/>
+    </g>
+  </g>
+  <text class="st3" transform="translate(434.77 539.51) scale(1.6 1)"><tspan x="0" y="0">HSIN</tspan></text>
+  <text class="st2" transform="translate(436.64 649.69)"><tspan x="0" y="0">欣欣畫框</tspan></text>
+</svg>

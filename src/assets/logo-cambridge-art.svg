@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1080 1080">
+  <!-- Generator: Adobe Illustrator 29.8.3, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #232c30;
+      }
+
+      .st1 {
+        font-family: Calibri-Bold, Calibri;
+        font-size: 36.6px;
+        letter-spacing: .05em;
+      }
+
+      .st1, .st2, .st3, .st4, .st5 {
+        fill: #fff;
+      }
+
+      .st1, .st4, .st5 {
+        font-weight: 700;
+      }
+
+      .st3 {
+        font-family: CeraPro-Medium, 'Cera Pro';
+        font-size: 88.05px;
+        font-weight: 500;
+        letter-spacing: .05em;
+      }
+
+      .st4 {
+        font-family: AdobeFanHeitiStd-Bold-B5pc-H, 'Adobe Fan Heiti Std';
+        font-size: 38.93px;
+      }
+
+      .st5 {
+        font-family: SourceHanSans-Bold-90ms-RKSJ-H, 'Source Han Sans';
+        font-size: 103.51px;
+      }
+
+      .st6 {
+        fill: #d47c63;
+      }
+
+      .st7 {
+        fill: #182e36;
+      }
+    </style>
+  </defs>
+  <rect class="st0" x="-12.89" y="-12.89" width="1105.78" height="1105.78"/>
+  <text class="st1" transform="translate(277.72 848.15)"><tspan x="0" y="0">Curated to Create . Inspired to Collect</tspan></text>
+  <rect class="st6" x="279.68" y="795.86" width="659.91" height="3.77" transform="translate(-6.49 5) rotate(-.47)"/>
+  <g>
+    <path class="st6" d="M137.84,924.49v-316.26c0-29.65,22.42-51.74,48.04-51.74s46.97,22.09,46.97,51.74v316.26h-9.07v-116.27h-76.33v116.27h-9.61ZM147.45,608.22v189.53h76.33v-189.53c0-23.84-17.61-41.28-37.9-41.28s-38.43,17.44-38.43,41.28Z"/>
+    <path class="st2" d="M185.61,902.1c-14.61,0-28.38-5.59-38.77-15.75-10.63-10.38-16.48-24.41-16.48-39.5v-242.86c0-15.09,5.85-29.12,16.48-39.5,10.39-10.16,24.16-15.75,38.77-15.75s28.29,5.72,38.59,16.1c10.4,10.48,16.12,24.57,16.12,39.68v8.81h-24.56v-9.34c0-16.91-13.25-30.15-30.15-30.15s-30.69,13.53-30.69,30.15v242.86c0,16.91,13.48,30.15,30.69,30.15s30.15-13.06,30.15-31.75v-7.74h24.56v9.34c0,30.98-24.03,55.25-54.71,55.25Z"/>
+    <path class="st7" d="M185.61,556.48c25.62,0,46.97,20.82,46.97,48.04v1.07h-9.07v-1.6c0-21.88-17.61-37.9-37.9-37.9s-38.43,16.01-38.43,37.9v242.86c0,21.88,17.61,37.9,38.43,37.9,21.88,0,37.9-16.55,37.9-39.5h9.07v1.6c0,27.22-21.35,47.5-46.97,47.5s-47.5-20.28-47.5-47.5v-242.86c0-27.22,21.88-47.5,47.5-47.5M185.61,541c-16.64,0-32.33,6.38-44.18,17.95-12.13,11.85-18.81,27.84-18.81,45.04v242.86c0,17.19,6.68,33.19,18.81,45.04,11.85,11.58,27.54,17.95,44.18,17.95s32.28-6.41,44-18.04c11.9-11.81,18.46-27.77,18.46-44.95v-17.09h-40.05v15.49c0,14.36-9.01,24.01-22.41,24.01s-22.94-9.84-22.94-22.41v-242.86c0-13.84,11.91-22.41,22.94-22.41s22.41,8.38,22.41,22.41v17.09h40.05v-16.55c0-17.17-6.52-33.2-18.37-45.14-11.77-11.86-27.42-18.39-44.09-18.39h0Z"/>
+  </g>
+  <text class="st3" transform="translate(275.64 774.12)"><tspan x="0" y="0">CAMBRIDGE ART</tspan></text>
+  <text class="st4" transform="translate(278.51 913.81)"><tspan x="0" y="0">策展創作 . 啟發收藏</tspan></text>
+  <text class="st5" transform="translate(276.81 680.34)"><tspan x="0" y="0">劍橋藝術中心</tspan></text>
+</svg>
