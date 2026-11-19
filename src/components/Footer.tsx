@@ -66,7 +66,7 @@ const Footer = () => {
         <div className="border-t border-primary-foreground/8 mt-16 pt-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
           <p className="text-primary-foreground/25 text-xs">
             © {new Date().getFullYear()} HSIN HSIN Family Enterprise Group. {t("All rights reserved.", "版權所有。")}
-          </p>
+          {" "}<span className="block mt-1 opacity-80" data-concept-note>Design concept for portfolio purposes only. Not the official website of Hsin Hsin.</span></p>
           <p className="text-primary-foreground/25 text-xs">
             Web Design by{" "}
             <a href="https://bluluma.com" target="_blank" rel="noopener noreferrer" className="text-accent/60 hover:text-accent transition-colors">
